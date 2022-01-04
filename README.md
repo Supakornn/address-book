@@ -1,1 +1,2 @@
-# Adress-Book
+# Address-Book
+Python GUI. Address Book app
