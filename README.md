@@ -1,2 +1,2 @@
 # Address-Book
-Python course project
+For Python for beginner course by BORNTODEV
